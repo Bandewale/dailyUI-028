@@ -1,0 +1,22 @@
+html{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    background: linear-gradient(300deg,skyblue,white,skyblue );
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    font-size: xx-large;
+}
+div{
+    display:block;
+    position:relative;
+    left:35%;
+    margin-top:9%;
+    text-align: center;
+}
+ul{
+    list-style: none;
+    color:darkblue;
+}
+
+
